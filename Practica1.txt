@@ -1,13 +1,13 @@
 /**
  * UPTx - Fundamentos de programacion orientada a objetos
  * Objetivo: Mi primer programa, aprender a programar en java
- * Integrantes: Isai Ulises Meza Ramiro
+ * Integrantes: Isai Ulises Meza Ramiro, lizbet Delgado Tehozol, Joseluis Moreno Ramos , Julio Cesar Montiel Molina
  * Practica No. 1     Grupo: 5H
  * Modificacion: 11/ene/2024
  */
-// Definici¢n de la clase Main
+// DefiniciÂ¢n de la clase Main
 public class Main {
-    // M‚todo principal que se ejecuta al correr el programa
+    // Mâ€štodo principal que se ejecuta al correr el programa
     public static void main(String[] args) {
         // Imprime el mensaje "Hola Mundo"
         System.out.println("Hola Mundo");
